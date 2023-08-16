@@ -1,0 +1,9 @@
+====== GAME RULE ======
+Every player views his/her cards and tries to match the card in the Discard Pile.
+You have to match either by the number, color, or the symbol/Action.
+For instance, if the Discard Pile has a red card that is an 8 you have to place either a red card or a card with an 8 on it.
+You can also play a Wild card (which can alter current color in play).
+If the player has no matches or they choose not to play any of their cards even though they might have a match,
+they must draw a card from the Draw pile.
+If that card can be played, play it. Otherwise, keep the card, and the game moves on to the next person in turn.
+You can also play a Wild card, or a Wild Draw Four card on your turn.
